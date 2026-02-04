@@ -8,3 +8,8 @@ This is my first step toward using Git and Github.
 - Learn Git basics
 - Use commit correctly
 -Push code to GitHub
+
+## Resources
+- https://www.w3schools.com/
+-https://learngitbranching.js.org/
+-https://cssbattle.dev/
