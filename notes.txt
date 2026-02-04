@@ -1,0 +1,5 @@
+init - initialise git repository and create .git folder
+git add. - make all files ready to store within .git
+git commit -m '' - commit changes with a specific message
+git remote add origin 'github repository url' -link local repository to remote repository
+git clone 'github repository url' - create a local clone of remote repository.
