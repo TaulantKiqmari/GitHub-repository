@@ -1,0 +1,4 @@
+name: Taulant Kiqmari
+I am learning Git to track my code and collaborate with others. 
+I want to use Git in real projects.
+I want to push code in remote repository.
